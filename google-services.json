@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1090413212751",
+    "project_id": "notify-cea93",
+    "storage_bucket": "notify-cea93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090413212751:android:868e84ba6f389afc57663a",
+        "android_client_info": {
+          "package_name": "com.arolova.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_V9nsfgo_0Qs4mO0KEhX6L0j-2ECRFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090413212751:android:02fb9cda66ec331657663a",
+        "android_client_info": {
+          "package_name": "com.example.notif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_V9nsfgo_0Qs4mO0KEhX6L0j-2ECRFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090413212751:android:5f2ac5675d1393e357663a",
+        "android_client_info": {
+          "package_name": "com.example.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_V9nsfgo_0Qs4mO0KEhX6L0j-2ECRFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
